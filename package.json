@@ -4,6 +4,10 @@
     "description": "HyperTerm inspired VSCode theme with vivid syntaxcolors and a pitch black UI.",
     "version": "0.3.0",
     "publisher": "hsnazar",
+    "repository": {
+    	"type": "git",
+    	"url": "https://github.com/allworkdone/hyper-term-theme.git"
+    },
     "engines": {
         "vscode": "^1.18.0"
     },
